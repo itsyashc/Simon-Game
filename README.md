@@ -1,5 +1,5 @@
 
-# Simon Game
+# Simon
 
 It's a game which is very popular in europe specially.
 The reason behind to created this game is to my improve logic and JavaScript skills.
